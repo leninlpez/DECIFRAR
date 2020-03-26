@@ -5,8 +5,6 @@ Created on Wed Mar 25 19:17:53 2020
 @author: Lenin
 
 ""alfabetos empleados"""
-
-
    ATBASH = 'z y x w v u t s r q p o ñ m l k j i h g f e d c b a'
 ALFABETO =  'A B C D E F G H I J K L M N O P Q R S T U V W X Y Z'
 
